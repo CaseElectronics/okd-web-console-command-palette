@@ -7,6 +7,6 @@ Tested on MacOS with Safari
 
 ### Keyboard shortcut overview
 
-`ctrl + k` - Reveal command palette
-`ctrl + t` - Go to visual topology view
-`ctrl + o` - Open 'Copy login command' page
+- `ctrl + k` - Reveal command palette
+- `ctrl + t` - Go to visual topology view
+- `ctrl + o` - Open 'Copy login command' page
