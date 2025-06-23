@@ -1,7 +1,7 @@
 # okd-web-console-command-palette
 Userscript to quickly navigate to different OKD web console pages within a namespace using a command palette (and other commands)
 
-![Untitled](https://github.com/user-attachments/assets/6238148e-95ed-4931-9be6-b199d6bdc2ca)
+![okd-web-console-command-palette](./screencap.gif)
 
 Tested on MacOS with Safari
 
